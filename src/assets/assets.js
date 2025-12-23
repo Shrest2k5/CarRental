@@ -85,7 +85,8 @@ export const assets = {
     user_profile,
     car_image2,
     car_image3,
-    car_image4
+    car_image4,
+    
 }
 
 export const menuLinks = [
